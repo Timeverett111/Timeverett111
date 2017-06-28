@@ -106,6 +106,14 @@ strong, b {
   font-weight: bold;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
 img {
   max-width: 100%;
 }
